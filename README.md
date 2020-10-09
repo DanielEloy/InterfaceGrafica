@@ -1,5 +1,5 @@
 # InterfaceGrafica
- Simples de intodrução
+ Simples de  introdução
 /**
  * @author Daniel Eloy
  *
